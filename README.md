@@ -12,7 +12,7 @@
 
 - 🌱 Estudando novas tecnologias como: Flutter, C#.NET, VB.NET e React
 
-- 🤞  Em Busca de estágio em Ciencia da computação onde possa mostrar minhas competências e me desenvolver profissionalmente como fullstack ✨✨✨✨✨✨✨
+- 🤞  Em Busca de estágio em Ciência da computação onde possa mostrar minhas competências e me desenvolver profissionalmente como fullstack ✨✨✨✨✨✨✨
  <div>
   <a href="https://github.com/ribeirorray">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirorray&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
