@@ -8,7 +8,7 @@
 
 
 
-- 🔭 Hoje trabalho com Desenvolvimento Desktop em VB.NET
+- 🔭 Hoje trabalho como Desenvolvedora fullstack júnior.
 
 - 🌱 Estudando novas tecnologias como: Flutter, C#.NET, VB.NET e React
 
