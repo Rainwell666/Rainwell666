@@ -13,11 +13,7 @@
 - 🌱 Estudando novas tecnologias como: Flutter, C#.NET, VB.NET e React
 
 - 🤞  Em Busca de oportunidades como Junior onde possa mostrar minhas competências e me desenvolver profissionalmente como fullstack ✨✨✨✨✨✨✨
- <div>
-  <a href="https://github.com/ribeirorray">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirorray&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirorray&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg">
