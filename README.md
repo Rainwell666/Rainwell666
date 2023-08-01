@@ -8,11 +8,11 @@
 
 
 
-- 🔭 Hoje trabalho como Desenvolvedora fullstack júnior.
+- 🔭 Hoje trabalho como Desenvolvedora fullstack.
 
 - 🌱 Estudando novas tecnologias como: Flutter, C#.NET, VB.NET e React
 
-- 🤞  Em Busca de oportunidades como Junior onde possa mostrar minhas competências e me desenvolver profissionalmente como fullstack ✨✨✨✨✨✨✨
+- 🤞  Em Busca de oportunidades onde possa mostrar minhas competências e me desenvolver profissionalmente como fullstack ✨✨✨✨✨✨✨
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
